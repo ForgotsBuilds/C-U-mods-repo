@@ -22,7 +22,7 @@
       "download_url": "https://cdn.discordapp.com/attachments/1517463328232833064/1518168250754535434/Catpatchv1.0.1.zip?ex=6a38efdd&is=6a379e5d&hm=aa321d379851243b5b22d8d47028f9153b387f669c4889ef8ff798e39b6de81f&",
       "install_mapping": {
         "BepInEx/plugins/Cat-Patch": "BepInEx/plugins/Cat-Patch",
-        "BepInEx/config/Cat-Patch": "BepInEx/patchers/Cat-Patch"
+        "BepInEx/config/Cat-Patch": "BepInEx/config/Cat-Patch"
       },
       "checksum": "d7880b981eef8a79b05389eb1f4f65ba89677fc2fecd5f3def0cc015b6981fdd"
     }
