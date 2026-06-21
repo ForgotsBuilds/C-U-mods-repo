@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "id": "krokosha-multiplayer-coop",
+      "name": "Krokosha Multiplayer Coop",
+      "version": "4.0.0",
+      "author": "Krokosha666",
+      "description": "Мультиплеерный кооперативный мод для Casualties: Unknown. Добавляет поддержку совместной игры, обновлений и голосового чата (Opus).",
+      "download_url": "https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop/releases/download/v4.0.0/KrokMP_4.0.0_release_game7.0.1demo_bepinex5.4.23.5.zip",
+      "install_mapping": {
+        "mod/BepInEx/plugins/KrokMP": "BepInEx/plugins/KrokMP",
+        "mod/BepInEx/patchers/KrokMP": "BepInEx/patchers/KrokMP"
+      },
+      "checksum": "d7880b981eef8a79b05389eb1f4f65ba89677fc2fecd5f3def0cc015b6981fdd"
+    }
+  ]
+}
